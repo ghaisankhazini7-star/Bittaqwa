@@ -60,7 +60,7 @@ class _JadwalSholatScreenState extends State<JadwalSholatScreen> {
           leading: IconButton(
             icon: const Icon(Icons.arrow_back_ios_new, color: Colors.white),
             onPressed: () {
-              _navigateBackToDashboard(context);
+              _navigateBackToDashboard(context); 
             },
           ),
           title: const Text(
