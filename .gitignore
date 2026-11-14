@@ -1,0 +1,21 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Oracle JDK
+bittaqwa_Ghaisan/lib/presentation/widget/oracleJdk-27/
+
+# Android
+android/.gradle/
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
